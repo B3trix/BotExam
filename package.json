@@ -1,7 +1,7 @@
 {
   "name": "start",
   "version": "1.0.0",
-  "description": "BotExam"
+  "description": "BotExam",
   "main": "start.js",
   "scripts": {
     "start": "node index.js",
@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/B3trix/BotExam.git"
   },
-  "author": "Sasha Shaniuk"
-  "license": "ISC"
+  "author": "Sasha Shaniuk",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/B3trix/BotExam/issues"
   },
