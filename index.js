@@ -28,5 +28,5 @@ bot.action(/\w+_\d+/, ctx => {
         });
 });
 
-bot.telegram.setWebhook('https://scholarship-bot.the-subliminal.now.sh');
+bot.telegram.setWebhook('https://scholarship-bot.sshanyukxxx.now.sh');
 module.exports = bot.webhookCallback('/');
