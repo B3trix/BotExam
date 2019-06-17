@@ -1,7 +1,7 @@
 {
   "name": "start",
   "version": "1.0.0",
-  "description": "NodeJS lab wokrs.",
+  "description": "BotExam"
   "main": "start.js",
   "scripts": {
     "start": "node index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheSubliminal/node_labs.git"
+    "url": "git+https://github.com/B3trix/BotExam.git"
   },
-  "author": "Michael Fridrikhson",
+  "author": "Sasha Shaniuk
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheSubliminal/node_labs/issues"
+    "url": "https://github.com/B3triix/BotExam/issues"
   },
-  "homepage": "https://github.com/TheSubliminal/node_labs#readme",
+  "homepage": "https://github.com/B3trix/BotExam#readme",
   "devDependencies": {
     "eslint": "^5.14.1",
     "localtunnel": "^1.9.1",
