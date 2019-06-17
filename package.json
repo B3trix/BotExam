@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/B3trix/BotExam/issues"
   },
-  "homepage": "https://github.com/B3trix/BotExam#readme",
+  "homepage": "https://github.com/B3trix/BotExam#readme.md",
   "devDependencies": {
     "eslint": "^5.14.1",
     "localtunnel": "^1.9.1",
