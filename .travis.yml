@@ -3,7 +3,7 @@ node_js:
   - "10.15.3"
 cache:
   - npm
-install:
+before script:
   - npm ci
 script: 
   - npm run lint
